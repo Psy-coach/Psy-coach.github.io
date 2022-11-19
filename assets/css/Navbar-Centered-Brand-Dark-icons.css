@@ -71,3 +71,29 @@ body {
   max-height: 40vw;
 }
 
+#Activity {
+  display: none;
+}
+
+#Activity:hover {
+  display: flex;
+}
+
+.Activity-list {
+  display: none;
+  position: relative;
+}
+
+.Activity-list.a:hover {
+  display: flex;
+}
+
+.Activity-list:hover {
+  display: flex;
+}
+
+#Reviews {
+  max-height: 40vw;
+  width: auto;
+}
+
