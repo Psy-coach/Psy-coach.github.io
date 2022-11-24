@@ -97,3 +97,7 @@ body {
   width: auto;
 }
 
+.object-fit:scale-down; {
+  object-fit: scale-down;
+}
+
