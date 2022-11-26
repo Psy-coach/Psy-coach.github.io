@@ -101,3 +101,10 @@ body {
   object-fit: scale-down;
 }
 
+.Post {
+  margin-top: 40px;
+  line-height: 18px;
+  font-size: 19px;
+  font-family: 'Albert Sans';
+}
+
